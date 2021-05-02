@@ -1,0 +1,49 @@
+{
+  "id": "f92487cc-d915-44d4-88e5-6afdbd96e195",
+  "name": "Feedback - Confirm - No",
+  "auto": true,
+  "contexts": [
+    "feedback",
+    "feedback-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "SHOW_CANCEL",
+      "affectedContexts": [
+        {
+          "name": "feedback",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-select-message",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What feedback would you like to give me then?",
+            "Alright, let's start over. What would you like to tell me?",
+            "Okay then. What feedback do you have?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

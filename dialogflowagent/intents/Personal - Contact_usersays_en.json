@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ac239290-bc6e-41af-8e74-0e083213a529",
+    "data": [
+      {
+        "text": "How can I contact you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac23951e-eb78-4aa2-ae5b-519b3958e5ca",
+    "data": [
+      {
+        "text": "How do I reach you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac239516-43e6-43ab-a338-69da1a019c17",
+    "data": [
+      {
+        "text": "What is your email address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac239796-8b8b-43dd-b47e-674ff4a3a7da",
+    "data": [
+      {
+        "text": "What is your phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac239018-a190-42e1-886c-00a8579bef6b",
+    "data": [
+      {
+        "text": "Where can I call you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2399ba-f7c8-4cdf-9c49-fc0290d0d032",
+    "data": [
+      {
+        "text": "What are your contact details?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2399ba-f7c8-4cdf-0049-fc0290d0d032",
+    "data": [
+      {
+        "text": "Can I email you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2399ba-f7c8-4cdf-9c00-fc0290d0d032",
+    "data": [
+      {
+        "text": "Can I call you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

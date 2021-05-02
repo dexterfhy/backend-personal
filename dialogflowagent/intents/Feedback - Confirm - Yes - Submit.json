@@ -1,0 +1,74 @@
+{
+  "id": "cc366931-0de0-4235-bfff-a33d4e93cdd2",
+  "name": "Feedback - Confirm - Yes - Submit",
+  "auto": true,
+  "contexts": [
+    "feedback",
+    "feedback-select-contact"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "SUBMIT_FEEDBACK",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cdb7ad88-625a-4991-9602-69f32131083f",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "64571a6f-0c8c-4485-b243-f49bd6ac1ab0",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! Your feedback has been submitted.\n\nHave something else I can help you with?",
+            "Got it! I've sent it along.\n\nWhat's next on your mind?",
+            "Thank you! You'll hear back from me (maybe).\n\nWhat can I do for you now?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

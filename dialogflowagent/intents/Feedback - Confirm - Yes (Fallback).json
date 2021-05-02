@@ -1,0 +1,49 @@
+{
+  "id": "30b3bc78-532e-4bfb-88ba-f49914b9a082",
+  "name": "Feedback - Confirm - Yes (Fallback)",
+  "auto": true,
+  "contexts": [
+    "feedback",
+    "feedback-select-contact"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "SHOW_CANCEL",
+      "affectedContexts": [
+        {
+          "name": "feedback",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-select-contact",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I couldn't detect a valid email address or phone number. Please try again.",
+            "I didn't recognize your email or phone number. Please try again.",
+            "Sorry, can you try typing your email or phone number again?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

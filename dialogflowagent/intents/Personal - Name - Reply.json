@@ -1,0 +1,59 @@
+{
+  "id": "2b5a93c1-45d2-4d14-a301-ff1751f05424",
+  "name": "Personal - Name - Reply",
+  "auto": true,
+  "contexts": [
+    "personal-name"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "GREET_NAME",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3586ec73-cd27-4e7c-9f9a-d5210b42ecd6",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, what is your name again?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

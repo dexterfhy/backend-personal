@@ -1,0 +1,44 @@
+{
+  "id": "affe74ca-7686-49b7-9b09-94b1ff653476",
+  "name": "Thank You",
+  "auto": true,
+  "contexts": [
+    "general"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "DISPLAY_DEFAULT_RESPONSE",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem! Let me know if you'd like to know anything else.",
+            "Don't worry about it! I'm happy to answer your questions.",
+            "Cheers! Can I help you with anything else?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

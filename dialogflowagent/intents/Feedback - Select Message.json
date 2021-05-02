@@ -1,0 +1,59 @@
+{
+  "id": "9ffc338e-da6e-4690-b3cf-e0eee0d85319",
+  "name": "Feedback - Select Message",
+  "auto": true,
+  "contexts": [
+    "feedback",
+    "feedback-select-message"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "CONFIRM_FEEDBACK",
+      "affectedContexts": [
+        {
+          "name": "feedback",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-confirm",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4da4ff66-37d9-4719-94e5-d214410d3c8e",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

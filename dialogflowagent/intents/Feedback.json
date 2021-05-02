@@ -1,0 +1,52 @@
+{
+  "id": "80e256a2-49a3-49e4-800e-d082f5920301",
+  "name": "Feedback",
+  "auto": true,
+  "contexts": [
+    "general"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "SHOW_CANCEL",
+      "affectedContexts": [
+        {
+          "name": "feedback",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-select-message",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like to tell me?",
+            "No problem. What is your feedback?",
+            "Yeah I can pass the message along. What is it?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_QUESTION_FEEDBACK_START_EVENT"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

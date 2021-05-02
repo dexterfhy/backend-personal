@@ -1,0 +1,31 @@
+{
+  "id": "37d1794a-5a1c-4c25-9ce8-60c142407e40",
+  "name": "Chatbot",
+  "auto": true,
+  "contexts": [
+    "general"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SHOW_CHATBOT_ARTICLES",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ac243290-bc6e-41af-8e74-0e083213a529",
+    "data": [
+      {
+        "text": "Are you currently studying?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac24351e-eb78-4aa2-ae5b-519b3958e5ca",
+    "data": [
+      {
+        "text": "Where are you studying?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243516-43e6-43ab-a338-69da1a019c17",
+    "data": [
+      {
+        "text": "Where did you study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243796-8b8b-43dd-b47e-674ff4a3a7da",
+    "data": [
+      {
+        "text": "What did you study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243018-a190-42e1-886c-00a8579bef6b",
+    "data": [
+      {
+        "text": "Which school were you from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243439-da0e-4c0e-b8db-9b67ee7cb0fc",
+    "data": [
+      {
+        "text": "Where did you graduate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2439d9-ae00-4517-a7ad-003a042fd8cd",
+    "data": [
+      {
+        "text": "Which university did you go to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2432ed-b7a9-4e4c-9872-7da641d2cf98",
+    "data": [
+      {
+        "text": "What was your college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243246-2c99-4db9-884d-dfbd390124f7",
+    "data": [
+      {
+        "text": "What is your educational background?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac243246-2c99-4db9-884d-dfbd390ffff7",
+    "data": [
+      {
+        "text": "Where did you go to school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

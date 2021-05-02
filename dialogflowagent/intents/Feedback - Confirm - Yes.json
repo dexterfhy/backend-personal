@@ -1,0 +1,49 @@
+{
+  "id": "55d6096a-be49-49fa-9640-2a2974e36248",
+  "name": "Feedback - Confirm - Yes",
+  "auto": true,
+  "contexts": [
+    "feedback",
+    "feedback-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "DISPLAY_DEFAULT_RESPONSE_WITHOUT_PROMPTS",
+      "affectedContexts": [
+        {
+          "name": "feedback",
+          "lifespan": 5
+        },
+        {
+          "name": "feedback-select-contact",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Can I have your phone number or email address so that I can reach you? I may not be around now.",
+            "What's your phone number or email, in case I need to reach you? I may not be around now.",
+            "Thank you! Before I submit your feedback, let me know your phone number or email so I can contact you if I have any enquiries ( I may not be around now)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

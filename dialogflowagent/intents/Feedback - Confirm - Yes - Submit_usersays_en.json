@@ -1,0 +1,199 @@
+[
+  {
+    "id": "a51c9540-f793-4c15-9a39-8dcf5b0581d1",
+    "data": [
+      {
+        "text": "Sure, email me at ",
+        "userDefined": false
+      },
+      {
+        "text": "apple@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10e00e33-5d94-4510-bbcc-bc304dfdaeb2",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "apple@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf90ae7f-0169-4f27-a129-18eb7c1e70f9",
+    "data": [
+      {
+        "text": "Email me at ",
+        "userDefined": false
+      },
+      {
+        "text": "apple@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e986a94f-4c52-499f-a820-68ec7785a5ba",
+    "data": [
+      {
+        "text": "apple@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a8d3b75-eaa1-46d8-af3b-8b82ca2995d6",
+    "data": [
+      {
+        "text": "Okay my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "apple@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bb86df6-9ac6-4599-baeb-c55b9b31e7e5",
+    "data": [
+      {
+        "text": "+6598765432",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a94ed38-41b9-4d83-97c1-1ad8af61ea18",
+    "data": [
+      {
+        "text": "98765432",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eb7e150-619d-4aa9-81e5-057ecd381653",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "98765432",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff0bf4c9-55dd-49c0-978f-2e0875785c58",
+    "data": [
+      {
+        "text": "98765432",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " is my number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "028c10f2-a356-4cb9-aead-ec7c629441bf",
+    "data": [
+      {
+        "text": "My number is ",
+        "userDefined": false
+      },
+      {
+        "text": "98765432",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd271d70-6aac-41be-a3c0-5afbefcfb13b",
+    "data": [
+      {
+        "text": "You can call me at ",
+        "userDefined": false
+      },
+      {
+        "text": "91234567",
+        "meta": "@sys.phone-number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

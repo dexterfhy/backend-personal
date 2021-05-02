@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ac250cd5-484f-44ba-ac07-cd0a7fbc6423",
+    "data": [
+      {
+        "text": "I have a message for you, good sir.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250037-332a-47f7-8233-03232f7bfa26",
+    "data": [
+      {
+        "text": "I have some feedback for you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250693-31ec-472e-9873-1e777b7b3d18",
+    "data": [
+      {
+        "text": "I would like to ask you a question.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2509df-8257-4f59-9e84-dfd06cb787ce",
+    "data": [
+      {
+        "text": "How can I leave my feedback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250b8e-2676-4199-ae78-c79ae1c79779",
+    "data": [
+      {
+        "text": "Submit feedback please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac25046d-413b-4a6d-9432-2ab9c91b1028",
+    "data": [
+      {
+        "text": "I want to give you some feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250055-e025-4f56-ba12-ff096890f196",
+    "data": [
+      {
+        "text": "Can I ask you a question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac25024b-14b3-49b3-b971-b7b85f96b007",
+    "data": [
+      {
+        "text": "I have something to ask you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250b2c-f965-4dc0-a521-de1ad3584464",
+    "data": [
+      {
+        "text": "Can I ask you something?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac250d9e-e628-4588-ad99-c378e3ea9d6f",
+    "data": [
+      {
+        "text": "I have feedback for you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

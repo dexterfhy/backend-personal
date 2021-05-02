@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ac249290-bc6e-41af-8e74-0e083213a529",
+    "data": [
+      {
+        "text": "Can I read more about your work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac24951e-eb78-4aa2-ae5b-519b3958e5ca",
+    "data": [
+      {
+        "text": "What do you do as a software engineer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac249516-43e6-43ab-a338-69da1a019c17",
+    "data": [
+      {
+        "text": "Can I learn more about your chatbot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac249796-8b8b-43dd-b47e-674ff4a3a7da",
+    "data": [
+      {
+        "text": "Where can I read more about what you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2491e2-cba7-427c-ab57-fad56bdb9fcd",
+    "data": [
+      {
+        "text": "What is your role at your current company?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac249b96-adb7-4f9e-b21f-72dd56774659",
+    "data": [
+      {
+        "text": "What do you do for a living?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac249d7e-876f-4bfc-b736-0669685fb7c6",
+    "data": [
+      {
+        "text": "What do you do at your job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

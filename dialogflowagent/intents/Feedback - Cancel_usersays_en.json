@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ac251cd5-484f-44ba-ac07-cd0a7fbc6423",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac251037-332a-47f7-8233-03232f7bfa26",
+    "data": [
+      {
+        "text": "Cancel my feedback.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac251693-31ec-472e-9873-1e777b7b3d18",
+    "data": [
+      {
+        "text": "I want to cancel my request.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2519df-8257-4f59-9e84-dfd06cb787ce",
+    "data": [
+      {
+        "text": "Can I cancel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac251b8e-2676-4199-ae78-c79ae1c79779",
+    "data": [
+      {
+        "text": "Cancel feedback please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

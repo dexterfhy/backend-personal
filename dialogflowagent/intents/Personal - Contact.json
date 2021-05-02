@@ -1,0 +1,40 @@
+{
+  "id": "5ae51b5c-4280-4543-aa6b-10ecd3e38b11",
+  "name": "Personal - Contact",
+  "auto": true,
+  "contexts": [
+    "general"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "DISPLAY_CONTACT_DETAILS",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

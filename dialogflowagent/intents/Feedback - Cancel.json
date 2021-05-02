@@ -1,0 +1,48 @@
+{
+  "id": "d70cc382-6d22-43e3-966b-9fa344ec251a",
+  "name": "Feedback - Cancel",
+  "auto": true,
+  "contexts": [
+    "feedback"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "DISPLAY_DEFAULT_RESPONSE",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, consider your request cancelled!",
+            "Sure thing. You know how to reach me if you still want to.",
+            "Cancelled. Let me know how else I can help you!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_QUESTION_FEEDBACK_CANCEL_EVENT"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

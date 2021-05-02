@@ -1,0 +1,44 @@
+{
+  "id": "da25a92a-750f-4f5d-a32b-9df3988ffa93",
+  "name": "Personal - Links",
+  "auto": true,
+  "contexts": [
+    "general"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "DISPLAY_DEFAULT_RESPONSE",
+      "affectedContexts": [
+        {
+          "name": "general",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Of course! You can visit my Linkedin/Github or access my resume in the link icons provided in my profile description.",
+            "Yup, the links to my Linkedin and Github are available in my profile. You can also download a copy of my resume by clicking on the document icon.",
+            "Yes. They're available in the link icons provided in my profile :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
